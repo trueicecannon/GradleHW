@@ -2,4 +2,3 @@ rootProject.name = 'Gradle_Proj'
 include 'db'
 include 'service'
 include 'api'
-
